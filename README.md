@@ -20,7 +20,7 @@
 2. **Clone or download this repo,** open a terminal in the project folder.
 3. **Run:**
    ```
-   python AoAnetworkScanner.py
+   python main.py
    ```
 4. **Follow the emoji-guided prompts:**
    - 🌐 Select language
@@ -79,7 +79,7 @@
 2. **Projeyi indirip bir terminal açın**
 3. **Çalıştırın:**
    ```
-   python AoAnetworkScanner.py
+   python main.py
    ```
 4. **Emoji'li yönergeleri takip edin:**
    - 🌍 Dil seçin
